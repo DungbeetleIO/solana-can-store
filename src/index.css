@@ -27,9 +27,6 @@ body {
   background-color: #004a97;
 }
 
-.candy-tooltip{
-  background-color: #004a97;
-}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
@@ -71,6 +68,3 @@ h3 {
   color: #004a97;
 }
 
-. candy-link a{
-  color: #004a97;
-}
