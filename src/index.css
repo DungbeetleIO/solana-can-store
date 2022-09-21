@@ -4,7 +4,7 @@
   --card-background-color: #51576d;
   --card-background-lighter-color: #7a7f92;
   --main-text-color: #f7f6f4;
-  --title-text-color: #3cba8b;
+  --title-text-color: #004a97;
 }
 
 body {
@@ -20,7 +20,13 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: #303030;
   color: #FFFFFF;
+
 }
+
+.candy-status-tag{
+  background-color: #004a97;
+}
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
@@ -29,6 +35,7 @@ code {
 
 a {
   text-decoration: none;
+  color: #004a97;
 }
 
 h2,
@@ -48,3 +55,19 @@ h3 {
 .css-1ago99h {
   color: black;
 }
+
+.candy-button {
+  background: #004a97;
+}
+
+.candy-powered-by-buy{
+  color: #004a97;
+}
+.candy-powered-by{
+  color: #004a97;
+}
+
+.candy-link{
+  color: #004a97;
+}
+
