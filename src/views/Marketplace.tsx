@@ -11,9 +11,9 @@ const Marketplace: React.FC = () => {
     <DesContainer>
       <Stat
         candyShop={candyShop}
-        title={"Marketplace"}
+        title={"SolEco POC 0.0.1"}
         description={
-          "Candy Shop is an open source library that allows you to create NFT storefronts and auctions in minutes!"
+          "Test Crab collection"
         }
         style={{ paddingBottom: 50 }}
       />
