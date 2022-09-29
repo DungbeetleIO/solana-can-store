@@ -13,7 +13,7 @@ const Marketplace: React.FC = () => {
         candyShop={candyShop}
         title={"SolEco POC 0.0.1"}
         description={
-          "Test Crab collection"
+          ""
         }
         style={{ paddingBottom: 50 }}
       />
