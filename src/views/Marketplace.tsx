@@ -11,9 +11,9 @@ const Marketplace: React.FC = () => {
     <DesContainer>
       <Stat
         candyShop={candyShop}
-        title={"SolEco POC 0.0.1"}
+        title={"Dungbeetle"}
         description={
-          "Test Crab collection"
+          ""
         }
         style={{ paddingBottom: 50 }}
       />
